@@ -1,0 +1,19 @@
+{
+  "name": "UserProfile",
+  "version": "0.0.1",
+  "description": "ERROR: No README.md file found!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Iragne/UserProfile.git"
+  },
+  "keywords": [
+    "Facebook",
+    "twitter"
+  ],
+  "author": "Iragne",
+  "license": "MIT"
+}
