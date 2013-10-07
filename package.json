@@ -15,5 +15,10 @@
     "twitter"
   ],
   "author": "Iragne",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies" : {
+      "connect": "2.7.x"
+     , "oauth":  "0.9.7"
+     , "openid": "0.4.1"
+  }
 }
