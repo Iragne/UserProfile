@@ -20,5 +20,13 @@
       "connect": "2.7.x"
      , "oauth":  "0.9.7"
      , "openid": "0.4.1"
+     , "mocha" : "*"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "scripts": {
+    "test": "make test-all"
   }
 }
